@@ -1,3 +1,7 @@
+# TicTacToe React
+I made this simple TicTacToe Game application following the tutorial guide from [React Documentation](https://react.dev/learn/tutorial-tic-tac-toe), just for my individual learning.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
